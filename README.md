@@ -22,5 +22,5 @@
 
 11. CRUD
 
-12. Tutorials Links :: https://www.javatpoint.com/jsp-tutorial, https://www.tutorialspoint.com/jsp/index.htm, http://tutorialspointexamples.com/jsp-tutorial-beginners-eclipse/, http://www.wideskills.com/jsp-tutorial
+12. Tutorials Links :: https://www.javatpoint.com/jsp-tutorial, https://www.tutorialspoint.com/jsp/index.htm, http://tutorialspointexamples.com/jsp-tutorial-beginners-eclipse/, http://www.wideskills.com/jsp-tutorial, http://www.codejava.net/java-ee/jsp, https://www.dineshonjava.com/jsp-tutorial-baby-step-to-server-pages/
 
